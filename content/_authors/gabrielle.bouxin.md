@@ -1,5 +1,5 @@
 ---
-fullname: Gabrielle Bouxin
+fullname: Gabrielle (Bouxin) de Lassus
 role: Product Owner SNU
 domaine: Produit
 link: https://www.linkedin.com/in/gabrielle-de-lassus-286410a3/
